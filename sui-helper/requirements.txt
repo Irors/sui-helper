@@ -2,3 +2,4 @@ pysui==0.36.0
 logger==1.4
 aiohttp==3.8.5
 openpyxl==3.1.2
+loguru==0.7.2
